@@ -1,4 +1,4 @@
-import * as Room from "pixel_combats/room"
+import * as Room from "Pixel_combats/Room"
 Room.Players.OnPlayerConnected.Add(function(p){})
 Room.Teams.OnRequestJoinTeam.Add(function(p.t){ t.Add(p) })
 Room.Teams.OnPlayerChangeTeam.Add((function(p, t) { p Spawns.Spawn(): }))
